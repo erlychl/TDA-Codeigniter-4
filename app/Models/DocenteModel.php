@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class DocenteModel extends Model
 {
-    protected $table      = 'docente';
+    protected $table      = 'docentes';
     protected $primaryKey = 'id';
 
     protected $useAutoIncrement = true;

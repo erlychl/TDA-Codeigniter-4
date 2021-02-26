@@ -5,8 +5,7 @@
 
             <div>
                 <p>
-                    <a herf="<?php echo base_url(); ?>/Docente/nuevo/" class="btn btn-info">Agregar</a>
-                    <a herf="<?php echo base_url(); ?>/Docente/eliminados/" class="btn btn-warning">Eliminados</a>
+                <a href="<?php echo base_url(); ?>/Docente/insertar" class='btn btn-dark'>Agregar  <i class="fas fa-user-plus"></i></a>
                 </p>
             </div>
 
@@ -31,9 +30,9 @@
                                 <td><?php echo $dato['nombres']; ?></td>
                                 <td><?php echo $dato['curso']; ?></td>
 
-                                <td><a herf="<?php echo base_url(); ?>/Docente/editar/"<?php echo $dato['id']; ?> class="btn btn-warning"><i class="fas fa-pencil-alt"></i></a></td>
+                                <td><a herf="<?php echo base_url(); ?>/Docente/editar"<?php echo $dato['id']; ?> class="btn btn-warning"><i class="fas fa-pencil-alt"></i></a></td>
                                 
-                                <td><a herf="<?php echo base_url(); ?>/Docente/eliminar/"<?php echo $dato['id']; ?> class="btn btn-danger"><i class="fas fa-trash-alt"></i></a></td>
+                                <td><a herf="<?php echo base_url(); ?>/Docente/eliminar"<?php echo $dato['id']; ?> class="btn btn-danger"><i class="fas fa-trash-alt"></i></a></td>
                             </tr>
                         <?php } ?>
                     </tbody>

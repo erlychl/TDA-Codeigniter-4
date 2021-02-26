@@ -8,8 +8,12 @@
     <meta name="description" content="" />
     <meta name="author" content="" />
     <title>Proyecto TDA</title>
-    <link href="css/styles.css" rel="stylesheet" />
-    <link href="css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="<?php echo base_url(); ?>/css/styles.css" rel="stylesheet" />
+    <link href="<?php echo base_url(); ?>/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="<?php echo base_url(); ?>/css/styles.css" rel="stylesheet" />
+    <link href="<?php echo base_url(); ?>css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <script src="<?php echo base_url(); ?>/js/all.min.js"></script>
+    <script src="https://kit.fontawesome.com/0bb8a4b46a.js" crossorigin="anonymous"></script>
     <script src="js/all.min.js"></script>
 </head>
 

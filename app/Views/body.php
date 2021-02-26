@@ -31,7 +31,11 @@
       </div>
     </div>
   </header>
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
   <main>
 
     <section class="py-5 text-center container" id="enca" style="background-image:url(imagenes/paisaje1.jpg);">
@@ -44,7 +48,11 @@
           <p>MANGO PUMALEQUE AYDEE CARMEN</p>
           <div class="jumbotron" id="jum">
             <p class="lead">
+<<<<<<< HEAD
               <a class="btn btn-primary btn-lg" href="http://localhost/ProyectoCI4Grupo33/public/" role="button" >Dashboard</a>
+=======
+              <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+>>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
             </p>
           </div>
         </div>
@@ -58,13 +66,21 @@
             <div class="col">
               <div class="card shadow-sm">
                 <img src="imagenes/docente.jpg">
+<<<<<<< HEAD
                 <a href="<?php echo base_url();?>/index.php/Docente"  class="btn btn-secondary my-2">DOCENTES</a>
+=======
+                <a href="#" class="btn btn-secondary my-2">DOCENTES</a>
+>>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
               </div>
             </div>
             <div class="col">
               <div class="card shadow-sm">
                 <img src="imagenes/estudiante.png">
+<<<<<<< HEAD
                 <a href="<?php echo base_url();?>/index.php/Estudiante" class="btn btn-secondary my-2">ESTUDIANTES</a>
+=======
+                <a href="#" class="btn btn-secondary my-2">ESTUDIANTES</a>
+>>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
               </div>
             </div>
             <div class="col">

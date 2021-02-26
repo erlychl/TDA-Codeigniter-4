@@ -23,7 +23,15 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
+<<<<<<< HEAD
 	public $baseURL = 'http://localhost/ProyectoCI4Grupo31/public/';
+=======
+<<<<<<< HEAD
+	public $baseURL = 'http://localhost/codeigniter4/public';
+=======
+	public $baseURL = 'http://localhost/ProyectoCI4Grupo3/public/';
+>>>>>>> 0e3ccf7830bad4bfb183ec5c54ffc5878a5f6131
+>>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
 
 	/**
 	 * --------------------------------------------------------------------------
@@ -36,7 +44,11 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
+<<<<<<< HEAD
 	public $indexPage = 'portadahome.php';
+=======
+	public $indexPage = '';
+>>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
 
 	/**
 	 * --------------------------------------------------------------------------

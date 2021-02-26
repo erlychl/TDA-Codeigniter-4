@@ -4,3 +4,21 @@
 #nombres{
    color: rgb(230, 219, 219)65, 144, 144); 
 }
+#final{
+    text-align:center;
+    font-size:25px;
+    color:rgb(239, 255, 94);
+}
+#icono{
+    font-size: 40px;
+}
+#tarjetas{
+    margin-top:100px;
+    height:500px;  
+}
+#jum{
+    height:10px;
+}
+#cuerpo{
+    background-color: rgb(176, 182, 182);
+}

@@ -35,11 +35,7 @@ class Database extends Config
 		'hostname' => 'localhost',
 		'username' => 'root',
 		'password' => '',
-<<<<<<< HEAD
 		'database' => 'dbtda1',
-=======
-		'database' => 'proyectotda',
->>>>>>> b816d29d5b1e374d215f17433d796c260680a74c
 		'DBDriver' => 'MySQLi',
 		'DBPrefix' => '',
 		'pConnect' => false,
